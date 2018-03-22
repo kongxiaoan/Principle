@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androiderror" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bessel" />
+            <option value="$PROJECT_DIR$/captchademo" />
+            <option value="$PROJECT_DIR$/dynamicloading" />
+            <option value="$PROJECT_DIR$/glide" />
+            <option value="$PROJECT_DIR$/glideprogresstest" />
+            <option value="$PROJECT_DIR$/greendao" />
+            <option value="$PROJECT_DIR$/hookdemo" />
+            <option value="$PROJECT_DIR$/loader" />
+            <option value="$PROJECT_DIR$/media" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/notificationdemo" />
+            <option value="$PROJECT_DIR$/opengl" />
+            <option value="$PROJECT_DIR$/remoteviewsdemo" />
+            <option value="$PROJECT_DIR$/router" />
+            <option value="$PROJECT_DIR$/runnabledemo" />
+            <option value="$PROJECT_DIR$/rxandroid" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/shuanghuancundemo" />
+            <option value="$PROJECT_DIR$/slidingmenu" />
+            <option value="$PROJECT_DIR$/slidingmunu" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/viewpagerdemo" />
+            <option value="$PROJECT_DIR$/viewpagerfragmentupdate" />
+            <option value="$PROJECT_DIR$/volley" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

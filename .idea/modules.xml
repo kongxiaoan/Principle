@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Principle.iml" filepath="$PROJECT_DIR$/Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androiderror/androiderror.iml" filepath="$PROJECT_DIR$/androiderror/androiderror.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bessel/bessel.iml" filepath="$PROJECT_DIR$/bessel/bessel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/captchademo/captchademo.iml" filepath="$PROJECT_DIR$/captchademo/captchademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicloading/dynamicloading.iml" filepath="$PROJECT_DIR$/dynamicloading/dynamicloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glide/glide.iml" filepath="$PROJECT_DIR$/glide/glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glideprogresstest/glideprogresstest.iml" filepath="$PROJECT_DIR$/glideprogresstest/glideprogresstest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hookdemo/hookdemo.iml" filepath="$PROJECT_DIR$/hookdemo/hookdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loader/loader.iml" filepath="$PROJECT_DIR$/loader/loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationdemo/notificationdemo.iml" filepath="$PROJECT_DIR$/notificationdemo/notificationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opengl/opengl.iml" filepath="$PROJECT_DIR$/opengl/opengl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteviewsdemo/remoteviewsdemo.iml" filepath="$PROJECT_DIR$/remoteviewsdemo/remoteviewsdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router/router.iml" filepath="$PROJECT_DIR$/router/router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/runnabledemo/runnabledemo.iml" filepath="$PROJECT_DIR$/runnabledemo/runnabledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxandroid/rxandroid.iml" filepath="$PROJECT_DIR$/rxandroid/rxandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuanghuancundemo/shuanghuancundemo.iml" filepath="$PROJECT_DIR$/shuanghuancundemo/shuanghuancundemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmunu/slidingmunu.iml" filepath="$PROJECT_DIR$/slidingmunu/slidingmunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" filepath="$PROJECT_DIR$/viewpagerdemo/viewpagerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerfragmentupdate/viewpagerfragmentupdate.iml" filepath="$PROJECT_DIR$/viewpagerfragmentupdate/viewpagerfragmentupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+    </modules>
+  </component>
+</project>
