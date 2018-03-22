@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/allclient" />
             <option value="$PROJECT_DIR$/androiderror" />
             <option value="$PROJECT_DIR$/animation" />
             <option value="$PROJECT_DIR$/app" />
@@ -31,6 +32,7 @@
             <option value="$PROJECT_DIR$/shuanghuancundemo" />
             <option value="$PROJECT_DIR$/slidingmenu" />
             <option value="$PROJECT_DIR$/slidingmunu" />
+            <option value="$PROJECT_DIR$/sourcecodeinterpretation" />
             <option value="$PROJECT_DIR$/test" />
             <option value="$PROJECT_DIR$/viewpagerdemo" />
             <option value="$PROJECT_DIR$/viewpagerfragmentupdate" />
