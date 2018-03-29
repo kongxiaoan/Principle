@@ -14,7 +14,9 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bessel" />
             <option value="$PROJECT_DIR$/captchademo" />
+            <option value="$PROJECT_DIR$/commentdemo" />
             <option value="$PROJECT_DIR$/dynamicloading" />
+            <option value="$PROJECT_DIR$/fragmentparser" />
             <option value="$PROJECT_DIR$/glide" />
             <option value="$PROJECT_DIR$/glideprogresstest" />
             <option value="$PROJECT_DIR$/greendao" />

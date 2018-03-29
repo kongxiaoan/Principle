@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bessel/bessel.iml" filepath="$PROJECT_DIR$/bessel/bessel.iml" />
       <module fileurl="file://$PROJECT_DIR$/captchademo/captchademo.iml" filepath="$PROJECT_DIR$/captchademo/captchademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commentdemo/commentdemo.iml" filepath="$PROJECT_DIR$/commentdemo/commentdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamicloading/dynamicloading.iml" filepath="$PROJECT_DIR$/dynamicloading/dynamicloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentparser/fragmentparser.iml" filepath="$PROJECT_DIR$/fragmentparser/fragmentparser.iml" />
       <module fileurl="file://$PROJECT_DIR$/glide/glide.iml" filepath="$PROJECT_DIR$/glide/glide.iml" />
       <module fileurl="file://$PROJECT_DIR$/glideprogresstest/glideprogresstest.iml" filepath="$PROJECT_DIR$/glideprogresstest/glideprogresstest.iml" />
       <module fileurl="file://$PROJECT_DIR$/greendao/greendao.iml" filepath="$PROJECT_DIR$/greendao/greendao.iml" />
